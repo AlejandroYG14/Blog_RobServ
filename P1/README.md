@@ -52,5 +52,13 @@ Durante el desarrollo de la práctica surgieron diversas dificultades geométric
 
 ## Resultado
 
-Este es funcionamiento final de la práctica, donde se aprecia la planificación inicial de la ruta y la posterior ejecución de la misma.
+Este es funcionamiento final de la práctica, donde se aprecia la planificación inicial de la ruta y la posterior ejecución de la misma:
+
+
+https://github.com/user-attachments/assets/c1505e38-1201-4a07-a970-56c9003288bf
+
+
+Y este es el resultado final:
+
+<img width="765" height="558" alt="resultado" src="https://github.com/user-attachments/assets/e111ebc1-06f5-478c-9d23-a5c1791042d2" />
 
