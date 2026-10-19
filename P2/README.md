@@ -52,3 +52,8 @@ La lógica del dron se rige por los siguientes estados:
 - **Inercia al aterrizar en la lancha**: Inicialmente, el dron se precipitaba al agua al intentar aterrizar, debido a la velocidad que traía. Esto se corrigió añadiendo un frenado proporcional en distancias menores a 2.5 metros, y exigiendo una tolerancia más estricta (`0.3m`) antes de ejecutar el comando de aterrizaje. Además, como respaldo al sensor de estado del simulador, que no siempre detectaba correctamente el aterrizaje, se añadió una lectura combinada (`if HAL.get_landed_state() == 1 or current_z < 1.5:`). De este modo, si el dron descendía de 1.5m (la cubierta está a 1.4m), se asumía el contacto para iniciar la recarga.
 
 ## Funcionamiento
+
+En este vídeo podemos observar el funcionamiento final:
+
+https://github.com/user-attachments/assets/4a3c50a3-fc23-469d-9cc1-d46316e562ea
+
