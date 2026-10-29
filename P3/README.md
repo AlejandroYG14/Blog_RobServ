@@ -66,4 +66,7 @@ Durante la maniobra de marcha atrás o ajuste, el coche a menudo se detenía de 
 
 ## Funcionamiento
 
+Este es el funcionamiento de la práctica:
+
+https://github.com/user-attachments/assets/684eff4d-8c46-4460-ab91-e687aacc594c
 
