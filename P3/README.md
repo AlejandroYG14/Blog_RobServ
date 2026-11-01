@@ -70,3 +70,18 @@ Este es el funcionamiento de la práctica:
 
 https://github.com/user-attachments/assets/684eff4d-8c46-4460-ab91-e687aacc594c
 
+### Otros casos
+
+Este es el funcionamiento cuando solo hay un coche delante o solo hay un coche detrás:
+
+
+
+https://github.com/user-attachments/assets/5fbfdc92-cf7e-43c8-befe-3b7e0a66ebdf
+
+
+
+
+https://github.com/user-attachments/assets/7f091481-0ca3-4869-9ffa-7beb06f92f40
+
+
+
