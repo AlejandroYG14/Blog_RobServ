@@ -75,8 +75,17 @@ En los siguientes vídeos se puede ver la ejecución de la práctica para cada u
 - Apartado A - Planificación puntual con obstáculos engordados:
 
 
+https://github.com/user-attachments/assets/c3dbd7af-67c6-4283-ad81-758be6a5b702
+
+
 - Apartado B - Geometrías diferenciadas ida/vuelta sin engordar:
 
 
+https://github.com/user-attachments/assets/f46ed565-9b7a-4af9-bc91-2266a915ae92
+
+
 - Apartado C - Robot rectangular Ackermann:
+
+
+https://github.com/user-attachments/assets/ba6d3b02-2d9f-4bd8-a50c-90c250b59196
 
